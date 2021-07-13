@@ -11,6 +11,7 @@ class Array
                 largest = ele
             elsif smallest > ele
                 smallest = ele
+                
             end
         end
 
